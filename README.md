@@ -71,3 +71,16 @@ Instruktioner:
 * en footer med länkar. länkarna behöver inte leda någonstans
 
 För att enkelt se hur det ska se ut så kan ni gå in deras sida, google.com, och se hur det ser ut! 
+
+### Övning 5 - EXTRA - Peter behöver hjälp
+
+**Beskrivning**: Peter driver resor med sin buss. Hans hemsida kan behöva få sig ett litet ansiktslyft. Är du rätt person för det?
+* https://wordpress.petersbuss.se/
+
+Instruktioner:
+
+*förbättra sidan bäst du vill!
+
+Ett bra tillfälle för att kunna testa dina kunskaper om det finns tid över. har du vad som krävs för att ta dig an ett sånt projekt? Peter kallar på dig
+
+
