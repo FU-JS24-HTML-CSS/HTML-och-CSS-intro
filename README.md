@@ -5,6 +5,56 @@
 Här är veckans övningar. Mycket fokus på just HTML i beskrivningarna och instruktionerna i dessa övningar. 
 Just CSS blir lite mer fritt att testa olika regler för hur saker ska se ut om inte annat är specifierat.
 
+### Glosor
+Här kommer en lista på glosor för er. Men istället för att ni ska lära er vad varje ord är översatt till svenska, så ska ni ta reda på vad dom olika elementen och reglerna gör.
+för att ta reda på det så ska ni använda er av dessa två sidor:
+
+* Mozillas officiella dokumentation, https://developer.mozilla.org/en-US/
+* W3Schools guide till HTML och CSS (bland annat), https://www.w3schools.com/
+
+Varför gör vi det här? någonting en gör väldigt mycket som utvecklare är att läsa dokumentation. Att börja tidigt med att sitta och läsa lite dokumentation kommer underlätta för oss att läsa annan dokumentation i framtiden.
+En stor fördel med att vi läser ju dokumentation från t ex MDN är att det är en väldigt bra och användarvänlig dokumentation, jämfört med vad en kommer stöta på i framtiden.
+
+#### HTML-element
+
+* link
+* title
+* script
+* h1-h6
+* p
+* a
+* div
+* li
+* ul
+* li
+* img
+* button
+* form
+* input
+* header
+* nav
+* main
+* aside
+* article
+* section
+* footer
+
+#### CSS - styling rules
+
+* Margin
+* Padding
+* Height
+* Width
+* Display
+* Position
+* Color
+* Backgrund-color
+* Border
+* Border-radius
+
+
+
+
 ### Övning 1 - Skapa en enkel webbsida med rubriker och stycken
 
 **Mål**: Lära sig grunderna i HTML-strukturen och använda rubriker och text på rätt sätt.
