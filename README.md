@@ -26,7 +26,7 @@ En stor fördel med att vi läser ju dokumentation från t ex MDN är att det ä
 * div
 * li
 * ul
-* li
+* ol
 * img
 * button
 * form
