@@ -1,0 +1,41 @@
+/* Selektorer - element */
+h1 {
+  color: rgb(115, 50, 180);
+}
+
+p {
+  color: rgb(25, 48, 91);
+}
+
+ul {
+  color: red;
+  padding: 1rem;
+}
+
+ul:hover {
+  background-color: rgb(88, 88, 210);
+}
+
+p b.bold {
+  color: rgb(143, 42, 59);
+}
+
+/* Selektorer - CSS class */
+
+.banana {
+  color: rgb(56, 56, 18);
+}
+
+.green {
+  color: green;
+}
+
+.kiwi {
+  color: rgb(54, 77, 18);
+}
+
+/* Selektorer - Id */
+
+#green {
+  color: green;
+}
