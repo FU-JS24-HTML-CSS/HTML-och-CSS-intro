@@ -125,7 +125,7 @@ För att enkelt se hur det ska se ut så kan ni gå in deras sida, google.com, o
 ### Övning 5 - EXTRA - Peter behöver hjälp
 
 **Beskrivning**: Peter driver resor med sin buss. Hans hemsida kan behöva få sig ett litet ansiktslyft. Är du rätt person för det?
-* https://wordpress.petersbuss.se/
+[länk till peters hemsida](https://wordpress.petersbuss.se/)
 
 Instruktioner:
 
